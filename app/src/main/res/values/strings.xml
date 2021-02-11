@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom Navigation with Navigation Components</string>
+    <string name="home_bottom_menu_title">Home</string>
+    <string name="page_2_bottom_menu_navigation">page 2</string>
+    <string name="page_3_bottom_menu_navigation">page 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

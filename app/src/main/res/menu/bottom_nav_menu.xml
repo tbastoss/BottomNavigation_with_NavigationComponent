@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_menu"
+        android:title="@string/home_bottom_menu_title"/>
+
+    <item
+        android:id="@+id/page2Fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_list_bottom_menu"
+        android:title="@string/page_2_bottom_menu_navigation"/>
+
+    <item
+        android:id="@+id/page3Fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings_bottom_menu"
+        android:title="@string/page_3_bottom_menu_navigation"/>
+
+</menu>
