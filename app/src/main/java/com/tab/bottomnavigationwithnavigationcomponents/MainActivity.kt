@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         setUpNavigation()
     }
 
-    public fun setUpNavigation() {
+    fun setUpNavigation() {
         bottomNavigationView = findViewById(R.id.bttm_nav)
         var navHostFragment: NavHostFragment = supportFragmentManager
             .findFragmentById(R.id.nav_host_fragment) as NavHostFragment
